@@ -1,0 +1,1 @@
+ D:\\Flutter\ projects\\coal_transport_tracker\\.dart_tool\\flutter_build\\df17fba639a246d34d7beffdaf9d3243\\native_assets.yaml: 
